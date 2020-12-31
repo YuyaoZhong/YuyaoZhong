@@ -1,6 +1,10 @@
 ### Hi there 👋
+
+I am a passionate software engineer interested in 🌐 full stack web development and 💻 distributed systems.
+
 <div style="display: flex;">
 
+#### Github Stats
 <a href="https://github.com/yuyaozhong">
   <img align="left" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api?username=yuyaozhong&count_private=true&show_icons=true" />
 </a>
