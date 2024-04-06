@@ -4,11 +4,11 @@ I am a passionate software engineer interested in 🌐 full stack web developmen
 
 <div style="display: flex;">
 
-<!--#### Github Stats
+#### Github Stats
 <a href="https://github.com/yuyaozhong">
   <img align="left" height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=yuyaozhong&count_private=true&show_icons=true" />
 </a>
-</div> -->
+</div>
 
 
 <!--
